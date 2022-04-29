@@ -47,7 +47,7 @@ a{
     flex-direction: column;
   }
   .side-bar{
-    background: #114;
+    background: #f57400;
     color: white !important;
   }
   .side-bar a{
@@ -61,7 +61,7 @@ a{
 
 nav.nav-menu {
   width: 100%;
-  background-color: #114;
+  background-color: #f57400;
   padding: 10px;
 }
 
@@ -109,7 +109,7 @@ section.youtube-embed {
   margin: 20px 0 0 0;
   padding: 10px 40px;
   width: fit-content;
-  background: #114;
+  background: #f57400;
   border-radius: 5px;
   text-decoration: none;
   color: white;
